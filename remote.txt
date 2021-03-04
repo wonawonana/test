@@ -1,1 +1,2 @@
 처음
+fetch 하면 repo_out/master 에서 보임
